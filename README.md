@@ -1,3 +1,8 @@
+
+
+https://github.com/YashPise/Movie-Recommendation-System/assets/99723328/728c5c61-8b8d-4c6e-85e8-52d5bdb3f458
+
+![Screenshot 2024-06-21 123953](https://github.com/YashPise/Movie-Recommendation-System/assets/99723328/30181cbd-4499-408f-8771-6e2e43ddeaa1)
 # Movie Recommendation System
 
 This repository contains the code for a Movie Recommendation System. The system uses collaborative filtering to recommend movies to users based on their past ratings.
